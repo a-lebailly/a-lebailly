@@ -2,15 +2,15 @@
 
 **I'm Alexandre LEBAILLY, a Web Developer based in 🇫🇷 with a knack for crafting robust applications.**
 
-I'm currently using :
+⚙️ I'm currently using :
 - PHP
 - Symfony
 - REST API
-- TailwindCSS
-- Bootstrap
 - JavaScript / TypeScript
 - React
 - React Native
+- TailwindCSS
+- Bootstrap
 
 💻 With a Master's in Computer Engineering, I specialize in building seamless user experiences for both web and mobile platforms. My expertise particularly lies in web application architecture.
 
