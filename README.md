@@ -18,7 +18,7 @@ My expertise particularly lies in web application architecture.
 ![Symfony, Laravel, NodeJS, AdonisJS, ExpressJS](https://skillicons.dev/icons?i=symfony,laravel,nodejs,adonis)
 
 #### Frontend Technologies
-![React, Angular, Webpack, Yarn, NPM, HTML, SASS, Tailwind, Bootstrap](https://skillicons.dev/icons?i=react,angular,webpack,yarn,npm,htmx,sass,tailwind,bootstrap)
+![React, Angular, Webpack, Yarn, NPM, HTML, SASS, Tailwind, Bootstrap](https://skillicons.dev/icons?i=react,angular,webpack,yarn,npm,sass,tailwind,bootstrap)
 
 #### Devops Technologies
 ![Google Cloud, Docker, Nginx, Redis, Bash](https://skillicons.dev/icons?i=gcp,docker,nginx,redis,bash,grafana)
