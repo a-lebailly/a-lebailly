@@ -9,8 +9,6 @@ My expertise particularly lies in web application architecture.
 
 🔍 Let's connect and collaborate!
 
-<a href="https://app.daily.dev/alebailly"><img src="https://api.daily.dev/devcards/v2/CgSwu8cWYvqhtF1TBLZkv.png?type=wide&r=wni" width="652" alt="Alexandre Lebailly's Dev Card"/></a>
-
 ## Skills
 
 #### Languages
