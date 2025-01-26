@@ -1,33 +1,41 @@
-## Hi 👋
+# 👋 Hello, I'm Alex
 
-**I'm Alexandre Lebailly, a developer based in 🇫🇷 with a knack for crafting robust applications.**
+🎯 **Backend Developer** specialized in **PHP** and **Symfony**, building robust and scalable systems.  
+🎨 I love creating and tweaking Linux themes, especially under **Hyprland**.
 
-🚀 With a Master Degree in Computer Engineering, I specialize in building seamless user experiences for both web and mobile platforms.  
-💻 My expertise particularly lies in web application architecture.  
-🔍 Let's connect and collaborate!
+---
 
-## Skills
+## 🛠️ Skills & Tools
 
-#### Languages
-![PHP, TypeScript, JavaScript, Python, HTML, CSS](https://skillicons.dev/icons?i=php,ts,js,python,html,css)
+- **Backend Development**: PHP, Node.js
+- **Backend Frameworks**: Symfony, Laravel, ExpressJS
+- **Frontend Frameworks**: React, Vue.js
+- **Frontend Librairies**: Tailwind CSS, Bootstrap  
+- **System Administration**: Linux (Arch, Debian), Docker, Shell  
+- **Tiling Window Managers**: i3, Hyprland  
+- **Theming & Ricing**: Customizing Waybar, Hyprland, Kitty, and more!  
 
-#### Backend Technologies
-![Symfony, Laravel, NodeJS](https://skillicons.dev/icons?i=symfony,laravel,nodejs)
+---
 
-#### Frontend Technologies
-![React, Tailwind, Bootstrap, NPM, Yarn, Webpack, SASS](https://skillicons.dev/icons?i=react,tailwind,bootstrap,npm,yarn,webpack,sass)
+## ✨ Featured Project
 
-#### Operating Systems
-![Linux, Arch, Ubuntu, Windows, Apple](https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,apple)
+### 🏔️ [Nord Dotfiles](https://github.com/a-lebailly/nord-dotfiles)
+A collection of my configuration files for **Hyprland**, **Waybar**, **Kitty**, **Fastfetch**, and more, designed with a custom **Nord Theme** aesthetic.  
+Includes tools for:
+- Automating installations with scripts.  
+- Creating cohesive, beautiful, and functional rices under Hyprland and i3.  
 
-#### Devops Technologies
-![Docker, Nginx, Redis, Bash](https://skillicons.dev/icons?i=docker,nginx,redis,bash)
+---
 
-#### Database and Tools
-![MySQL, ElasticSearch](https://skillicons.dev/icons?i=mysql,elasticsearch)
+## 🌟 About Me
 
-#### IDE
-![PHPStorm, VSCode, SublimeText](https://skillicons.dev/icons?i=phpstorm,vscode,sublime)
+- 🔥 Linux enthusiast and backend problem solver specializing in **PHP** and **Symfony**.  
+- 🎨 Dedicated to crafting beautiful and functional desktop setups.  
+- 🛠️ Always tinkering with new tools and frameworks.  
 
-#### Other tools and Technologies
-![GIT, GitHub, GitLab, Postman, Figma](https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,md,stackoverflow)
+---
+
+📫 **Let's Connect**  
+Feel free to reach out or explore my repos!
+
+✨ _“Code is like art, and ricing is my canvas.”_
