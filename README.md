@@ -17,16 +17,6 @@
 
 ---
 
-## ✨ Featured Project
-
-### 🏔️ [Nord Dotfiles](https://github.com/a-lebailly/nord-dotfiles)
-A collection of my configuration files for **Hyprland**, **Waybar**, **Kitty**, **Fastfetch**, and more, designed with a custom **Nord Theme** aesthetic.  
-Includes tools for:
-- Automating installations with scripts.  
-- Creating cohesive, beautiful, and functional rices under Hyprland and i3.  
-
----
-
 ## 🌟 About Me
 
 - 🔥 Linux enthusiast and backend problem solver specializing in **PHP** and **Symfony**.  
