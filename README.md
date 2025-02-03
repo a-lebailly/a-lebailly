@@ -7,13 +7,16 @@
 
 ## 🛠️ Skills & Tools
 
-- **Backend Development**: PHP, Node.js
-- **Backend Frameworks**: Symfony, Laravel, ExpressJS
-- **Frontend Frameworks**: React, Vue.js
-- **Frontend Librairies**: Tailwind CSS, Bootstrap  
-- **System Administration**: Linux (Arch, Debian), Docker, Shell  
-- **Tiling Window Managers**: i3, Hyprland  
-- **Theming & Ricing**: Customizing Waybar, Hyprland, Kitty, and more!  
+- **Backend Development**:  
+  ![My Skills](https://skillicons.dev/icons?i=php,nodejs)
+- **Backend Frameworks**:  
+  ![My Skills](https://skillicons.dev/icons?i=symfony,laravel,expressjs)
+- **Frontend Frameworks**:  
+  ![My Skills](https://skillicons.dev/icons?i=react,vuejs)
+- **Frontend Librairies**:  
+  ![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)
+- **System Administration**:  
+  ![My Skills](https://skillicons.dev/icons?i=rust,debian,arch,docker)
 
 ---
 
