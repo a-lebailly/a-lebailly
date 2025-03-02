@@ -19,6 +19,13 @@
   ![My Skills](https://skillicons.dev/icons?i=rust,debian,arch,docker)
 
 ---
+## ✨ Featured Project
+
+### 🏔️ [Nord Dotfiles](https://github.com/a-lebailly/nord-dotfiles)
+
+A collection of my configuration files for **Hyprland**, **Waybar**, **Kitty**, **Fastfetch**, and more, designed with a custom **Nord Theme** aesthetic. Includes tools for creating cohesive, beautiful, and functional rices under Hyprland and i3.  
+
+---
 
 ## 🌟 About Me
 
