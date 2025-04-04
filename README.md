@@ -10,9 +10,9 @@
 - **Backend Development**:  
   ![My Skills](https://skillicons.dev/icons?i=php,nodejs)
 - **Backend Frameworks**:  
-  ![My Skills](https://skillicons.dev/icons?i=symfony,laravel,expressjs)
+  ![My Skills](https://skillicons.dev/icons?i=symfony,laravel,expressjs,nestjs)
 - **Frontend Frameworks**:  
-  ![My Skills](https://skillicons.dev/icons?i=react,vuejs)
+  ![My Skills](https://skillicons.dev/icons?i=react,vuejs,nuxt)
 - **Frontend Librairies**:  
   ![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)
 - **System Administration**:  
