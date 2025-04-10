@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alex
 
-🎯 **Backend Developer** specialized in **PHP** and **Symfony**, building robust and scalable systems.  
+🎯 **FullStack Developer** specialized in **PHP**, **Symfony**, **Vue** and **Nuxt** building robust and scalable systems.  
 🎨 I love creating and tweaking Linux themes, especially under **Hyprland**.
 
 ---
@@ -30,7 +30,7 @@ A collection of my configuration files for **Hyprland**, **Waybar**, **Kitty**, 
 ## 🌟 About Me
 
 - 🔥 Linux enthusiast and backend problem solver specializing in **PHP** and **Symfony**.  
-- 🎨 Dedicated to crafting beautiful and functional desktop setups.  
+- 🎨 Dedicated to crafting beautiful and functional desktop setups and applications UI.  
 - 🛠️ Always tinkering with new tools and frameworks.  
 
 ---
@@ -38,4 +38,4 @@ A collection of my configuration files for **Hyprland**, **Waybar**, **Kitty**, 
 📫 **Let's Connect**  
 Feel free to reach out or explore my repos!
 
-✨ _“Code is like art, and ricing is my canvas.”_
+✨ _“Code is like art...”_
