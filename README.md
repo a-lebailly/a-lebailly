@@ -39,3 +39,7 @@ A collection of my configuration files for **Hyprland**, **Waybar**, **Kitty**, 
 Feel free to reach out or explore my repos!
 
 ✨ _“Code is like art...”_
+
+---
+
+<a href="https://app.daily.dev/alebailly"><img src="https://api.daily.dev/devcards/v2/CgSwu8cWYvqhtF1TBLZkv.png?type=wide&r=6du" width="652" alt="Alexandre Lebailly's Dev Card"/></a>
